@@ -7,3 +7,6 @@ Folder : Python Code : contains raw files
 		.ui for ui
 Folder : Inventory Manager : contains fully developed application
 		just click .exe to open app
+
+Folder : Setup : contains a folder to setup a complete application
+	setup file can be distributed easily and then installed
